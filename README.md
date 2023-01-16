@@ -1,4 +1,4 @@
-# hygieia
+# Hygieia
 Hygieia — The Python Package that Utilizes Feature Selection to Predict the Clinical and Genomic Basis of Disease
 
 Hygieia is an open-source Python package that conducts feature selection on patient records, extracting
