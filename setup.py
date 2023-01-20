@@ -12,7 +12,7 @@ setup(
         'sklearn',
         'matplotlib',
         'seaborn',
-        'scikit-learn`,
+        'scikit-learn',
     ],
     author='Will DeGroat, Vignesh Venkat, Habiba Abdelhalim, , Widnie Pierre-Louis, Dr. Zeeshan Ahmed',
     author_email='will.degroat@gmail.com, zahmed@ifh.rutgers.edu'
