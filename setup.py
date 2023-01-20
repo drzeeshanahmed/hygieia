@@ -11,8 +11,9 @@ setup(
         'pandas',
         'sklearn',
         'matplotlib',
-        'seaborn'
+        'seaborn',
+        'scikit-learn
     ],
-    author='Will DeGroat, Vignesh Venkat, Habiba Abdelhalim, Dr. Zeeshan Ahmed',
+    author='Will DeGroat, Vignesh Venkat, Habiba Abdelhalim, , Widnie Pierre-Louis, Dr. Zeeshan Ahmed',
     author_email='will.degroat@gmail.com, zahmed@ifh.rutgers.edu'
 )
